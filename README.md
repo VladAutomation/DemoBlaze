@@ -6,6 +6,9 @@ I have created the following test files:
 1. phonesOrder
 2. laptopOrder
 
+In the support folder, I have created the corresponding files for the pages the tests interact with, under the **Page_Objects** folder.
+
+
 The first file execution follows a happy path, with a succesful order. The second file follows a failed order, by not providing enough data.
 
 ## Pre-requisites
